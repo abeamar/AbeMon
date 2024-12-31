@@ -1,4 +1,4 @@
-# abe App 0.1.0 <img src="https://raw.githubusercontent.com/abeamar/abeApp/refs/heads/main/logo.png?token=GHSAT0AAAAAAC4KC6CO2LKGVGXFU2LNKJOUZ3UDNUA" align="right" width="150">
+# abe App 0.1.0  ![Alt text](https://github.com/abeamar/abeApp/blob/main/logo.png)
 Windows Forms App created in Visual Studio, C#, T-SQL. This App is for Light DBA everyday work, monitoring and troubleshooting.
 <hr>
  <p dir="auto">
