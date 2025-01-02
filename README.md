@@ -1,6 +1,6 @@
 # abe App 0.1.0  
 ![Alt text](https://github.com/abeamar/abeApp/blob/main/logo.png) <br>
-Windows Forms App created in Visual Studio, C#, WPF, T-SQL. This App is for Light DBA everyday work of monitoring and troubleshooting.
+App created in Visual Studio, C#, WPF, T-SQL. This App is for Light DBA everyday work of monitoring and troubleshooting.
 <hr>
  <p dir="auto">
         <a href="#about">1. About</a><br>
