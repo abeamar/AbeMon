@@ -1,4 +1,4 @@
-# abe App 0.1.0  
+# Abe App 0.1.0  
 ![Alt text](https://github.com/abeamar/abeApp/blob/main/logo.png) <br>
 App created using Visual Studio, C#, WPF, T-SQL, WMI. This App is for Light DBA everyday work of monitoring and troubleshooting.
 <hr>
