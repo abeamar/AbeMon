@@ -20,7 +20,7 @@ App created using Visual Studio, C#, WPF, T-SQL, WMI. This App is for Light DBA 
         <br>
         
 ![Alt text](https://github.com/abeamar/abeApp/blob/main/abePreview.jpg)
-![Alt text](https://github.com/abeamar/abeApp/blob/main/abePreview2.jpg)
+![Alt text](https://github.com/abeamar/abeApp/blob/main/abePreview2.png)
         <br>
             <hr>
     <section id="options">
