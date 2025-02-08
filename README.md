@@ -15,7 +15,7 @@ App created using Visual Studio, C#, WPF, T-SQL, WMI. This App is for Light DBA 
     <br>
      <section id="about">
         <h2>1. About</h2>
-        <p>The primary focus of this project is to make an app that will give all the necessary help tools for database administrator in their work. This app was made not just as a showcase but also as a functional tool. I've also implemented in the app to run as a trial version, after 30 days the login button will stop working. Below are the product screens. The app is created for MS SQL.</p>
+        <p>The primary focus of this project is to make an app that will give all the necessary help tools for database administrator in their everyday monitoring work. This app was made not just as a showcase but also as a functional tool. <br>I've also implemented in the app to run as a trial version, after 30 days the login button will stop working. Below are the product screens. <br>The app is created for MS SQL.</p>
     </section>
         <br>
             <hr>
@@ -27,7 +27,7 @@ App created using Visual Studio, C#, WPF, T-SQL, WMI. This App is for Light DBA 
             <hr>
     <section id="resource">
         <h2>2.1. System</h2>
-        <p>In this section you get all the important information about the SQL Instance (configuration, settings, behavior), network config, disk, cpu, ram info. On the sql panel you can see your databases relevant info (state, mode, sessions count..)<br>From this section you can open panels that will give info about "Active Restore process" (in percentage), "Restory History" (with option to filter db), "Sizes of db files", "Sizes of tables in specific db", fragmentation.</p>
+        <p>In this section you get all the important information about the SQL Instance (configuration, settings, behavior), network config, disk, cpu, ram info. On the sql panel you can see db relevant info (state, mode, sessions count)<br>From this section you can open panels that will give info about "Active Restore process" (in percentage), "Restory History" (with option to filter db), "Sizes of db files", "Sizes of tables in specific db", fragmentation.</p>
     </section>
             <hr>
     <section id="errors">
@@ -37,12 +37,12 @@ App created using Visual Studio, C#, WPF, T-SQL, WMI. This App is for Light DBA 
             <hr>
         <section id="sessions">
         <h2>2.3. Sessions</h2>
-        <p>In this section you can check "Active Sessions" (with detail info about sessions behavior), all the sessions with option to filter session state and target database of interest, and option to check oldest active sessions.</p>
+        <p>In this section you can check "Active Sessions" (with detail info about sessions behavior), list of all sessions with option to filter session and target database of interest, option to check oldest active sessions.</p>
             <hr>
     </section>
         <section id="locks">
         <h2>2.4. Locks</h2>
-        <p>In this section you can check and filter error logs on your SQL Instance. It contains both system and user-defined events information.</p>
+        <p>In this section you can make event events with option to create, purge and monitor preseted data. We are focusing on blocks, deadlocks, with specially created queries to have all the relavant info.<br>With debugEvent you can track specific object for troubleshooting scenarios.</p>
     </section>
             <br>
             <hr>
