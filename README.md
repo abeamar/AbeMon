@@ -50,7 +50,7 @@ App created using Visual Studio, C#, WPF, T-SQL, WMI. This App is for Light DBA 
             <hr>
     <section id="conclusion">
         <h2>3. Conclusion</h2>
-        <p>Overall, the purpose of the project is to challenge myself, to acquire skills and logic in making apps and also implement my knowledge and best practices in the MS SQL database field.</p>
+        <p>Overall, the purpose of the project was to challenge myself, to acquire skills and logic in making apps and also implement my knowledge and best practices in the MS SQL database field.<b> The end result is a fully functional and very useful tool to have in dba arsenal.</p>
     </section>
         <br>
 
