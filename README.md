@@ -36,7 +36,7 @@ App created using Visual Studio, C#, WPF, T-SQL, WMI. This App is for Light DBA 
             <hr>
         <section id="sessions">
         <h2>2.3. Sessions</h2>
-        <p>In this section you can check "Active Sessions" (with detail info about sessions behavior), list of all sessions with option to filter session and target database of interest, option to check oldest active sessions.</p>
+        <p>In this section you can check "Active Sessions" (with detail info about sessions behavior), list of all sessions with option to filter session state and target database of interest, option to check oldest active sessions.</p>
             <hr>
     </section>
         <section id="locks">
