@@ -23,7 +23,6 @@ App created using Visual Studio, C#, WPF, T-SQL, WMI. This App is for Light DBA 
         <h2>2. Options</h2>
         <p>The App is divided in few forms; System, Errors, Sessions, Locks. Each section gives multiple options to interact based on the topic name. On the first panel you have an option to log in using SQL user or using Windows credentials.</p>
     </section>
-        <br>
             <hr>
     <section id="resource">
         <h2>2.1. System</h2>
