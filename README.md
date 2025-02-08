@@ -5,21 +5,23 @@ App created using Visual Studio, C#, WPF, T-SQL, WMI. This App is for Light DBA 
  <p dir="auto">
         <a href="#about">1. About</a><br>
         <a href="#options">2. Options</a><br>
-        <a href="#resources"> 2.1. viewResources</a><br>
-        <a href="#sessions"> 2.2. viewSessions</a><br>
+        <a href="#resource"> 2.1. System</a><br>
+        <a href="#errors"> 2.2. Errors</a><br>
+        <a href="#sessions"> 2.3. Sessions</a><br>
+        <a href="#sessions"> 2.4. Locks</a><br>
         <a href="#conclusion">3. Conclusion</a><br>
     </p>
     <hr>
     <br>
      <section id="about">
         <h2>1. About</h2>
-        <p>The primary focus of this project is to make an app that will give all the necessary help tools for database administrator in their work. This app was made not just as a showcase but also as a functional tool. I've also implemented in the app to run as a trial version, after 30 days the login button will stop working. Below are the product screens.</p>
+        <p>The primary focus of this project is to make an app that will give all the necessary help tools for database administrator in their work. This app was made not just as a showcase but also as a functional tool. I've also implemented in the app to run as a trial version, after 30 days the login button will stop working. Below are the product screens. The app is created for MS SQL.</p>
     </section>
         <br>
             <hr>
     <section id="options">
         <h2>2. Options</h2>
-        <p>The App is divided in few forms; System, Errors, Sessions, Locks. Each section gives multiple options to interact based on the topic name.</p>
+        <p>The App is divided in few forms; System, Errors, Sessions, Locks. Each section gives multiple options to interact based on the topic name. On the first panel you have an option to log in using SQL user or using Windows credentials.</p>
     </section>
         <br>
             <hr>
@@ -36,12 +38,17 @@ App created using Visual Studio, C#, WPF, T-SQL, WMI. This App is for Light DBA 
         <section id="sessions">
         <h2>2.3. Sessions</h2>
         <p>In this section you can check "Active Sessions" (with detail info about sessions behavior), all the sessions with option to filter session state and target database of interest, and option to check oldest active sessions.</p>
+            <hr>
+    </section>
+        <section id="locks">
+        <h2>2.4. Locks</h2>
+        <p>In this section you can check and filter error logs on your SQL Instance. It contains both system and user-defined events information.</p>
     </section>
             <br>
             <hr>
     <section id="conclusion">
         <h2>3. Conclusion</h2>
-        <p>Overall, the purpose of the project is to demonstrate my skills in making the app and also implement knowledge and best practices in the database field.</p>
+        <p>Overall, the purpose of the project is to demonstrate my skills in making the app and also implement my knowledge and best practices in the MS SQL database field.</p>
     </section>
         <br>
 
