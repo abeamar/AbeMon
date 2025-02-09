@@ -44,7 +44,7 @@ App created using Visual Studio, C#, WPF, T-SQL, WMI. This App is for Light DBA 
     </section>
         <section id="locks">
         <h2>2.4. Locks</h2>
-        <p>In this section you can make events with option to create, purge and monitor preseted data. We are focusing on blocks, deadlocks, with specially created queries to have all the relavant info.<br>Block and Deadlock events are based on my sql script here (except we store data in ring buffer, behaving as a client side select)  https://github.com/abeamar/sqlLockEvents <br>With debugEvent option you can track specific objects name for troubleshooting scenarios (sql completed sessions, error sessions).</p>
+        <p>In this section you can make events with option to create, purge and monitor preseted data. We are focusing on blocks, deadlocks, with specially created queries to have all the relavant info.<br>Block and Deadlock events are based on my sql script here (except now we store data in ring buffer, behaving as a client side select)  https://github.com/abeamar/sqlLockEvents <br>With debugEvent option you can track specific objects name for troubleshooting scenarios (sql completed sessions, error sessions).</p>
     </section>
             <br>
             <hr>
