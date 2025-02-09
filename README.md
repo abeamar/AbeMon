@@ -29,7 +29,7 @@ App created using Visual Studio, C#, WPF, T-SQL, WMI. This App is for Light DBA 
             <hr>
     <section id="resource">
         <h2>2.1. System</h2>
-        <p>In this section you get all the important information about the SQL Instance (configuration, settings, behavior), network config, disk, cpu, ram info. On the sql panel you can see db relevant info (state, mode, sessions count)<br>From this section you can open panels that will give info about "Active Restore process" (in percentage), "Restore History" (with option to filter db), "Sizes of db files", "Sizes of tables in specific db", fragmentation.</p>
+        <p>In this section you get all the important information about the SQL Instance (configuration, settings, behavior), network config, disk, cpu, ram info. On the sql panel you can see db relevant info (state, mode, sessions count)<br>From this section you can open panels that will give info about "Active Restore process" (in percentage), "Restore History" (with option to filter db), "Sizes of db files", "Sizes of tables in specific db", fragmentation, and tempdb debuging</p>
     </section>
             <hr>
     <section id="errors">
