@@ -15,7 +15,7 @@ App created using Visual Studio, C#, WPF, T-SQL, WMI. This App is for Light DBA 
     <br>
      <section id="about">
         <h2>1. About</h2>
-        <p>The primary focus of this project is to make an app that will have all the necessary tools for database administrator in their everyday monitoring work. This app was made not just as a showcase but also as a fully functional tool. <br>I've also implemented in the app to run as a trial version, after 30 days the login button will stop working. Feel free to contact me if you like what you see. <br>Below are some of the product screens. <br>The app is created for MS SQL.<br>Install file: https://github.com/abeamar/abeApp/blob/main/abeSetup.msi </p>
+        <p>The primary focus of this project is to make an app that will have all the necessary tools for database administrator in their everyday monitoring work. This app was made not just as a showcase but also as a fully functional tool. <br>I've also implemented in the app to run as a trial version, after 30 days the login button will stop working. Feel free to contact me if you like what you see. <br>Below are some of the product screens. <br>The app is created for MS SQL.<br>Install file options: <br>https://github.com/abeamar/abeApp/blob/main/abeSetup.msi <br>or https://github.com/abeamar/abeApp/tree/main/abeSetup</p>
     </section>
         <br>
 
