@@ -1,6 +1,6 @@
 # Abe App 0.1.0  
 ![Alt text](https://github.com/abeamar/abeApp/blob/main/logo.png) <br>
-App created using Visual Studio, C#, WinForms, T-SQL, WMI. This App is for Light DBA everyday work on monitoring and troubleshooting.
+App created using Visual Studio, C#, WinForms, T-SQL, WMI. This App is for Light DBA everyday work on monitoring and troubleshooting on MSSQL.
 <hr>
  <p dir="auto">
         <a href="#about">1. About</a><br>
@@ -15,7 +15,7 @@ App created using Visual Studio, C#, WinForms, T-SQL, WMI. This App is for Light
     <br>
      <section id="about">
         <h2>1. About</h2>
-        <p>The primary focus of this project is to make an app that will have all the necessary tools for database administrator in their everyday monitoring work. This app was made not just as a showcase but also as a fully functional tool. <br>I've also implemented in the app to run as a trial version, after 30 days the login button will stop working. Feel free to contact me if you like what you see. <br>Below are some of the product screens. <br>The app is created for MS SQL.<br>🐔 Install options: <br>https://github.com/abeamar/abeApp/blob/main/abeSetup.msi <br>or https://github.com/abeamar/abeApp/tree/main/abeSetup</p>
+        <p>The primary focus of this project is to make an app that will have all the necessary tools for database administrator in their everyday monitoring work. This app was made not just as a showcase but also as a fully functional tool. <br>I've also implemented in the app to run as a trial version, after 30 days the login button will stop working. Feel free to contact me if you like what you see. <br><br>Below are some of the product screens. <br><br>🐔 AbeMon Install options: <br>https://github.com/abeamar/abeApp/blob/main/abeSetup.msi <br>or<br> https://github.com/abeamar/abeApp/tree/main/abeSetup</p>
     </section>
         <br>
 
