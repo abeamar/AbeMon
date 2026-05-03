@@ -18,17 +18,20 @@ App created using Visual Studio, C#, WinForms, T-SQL, PowerShell, WMI. This App 
      <section id="about">
         <h2>1. About</h2>
         <p>The primary focus of this project is to make an App that will have all the necessary tools for database administrator in their everyday monitoring work. This app is a fully functional tool. <br>The app is provided as a trial for 30 days, allowing you to experience its full functionality. Feel free to contact me if you like what you see. This App is designed to deliver smooth performance while using minimal system resources, consuming just 10-20MB of RAM.<br>Full Article on dev.to<br>
-         <a href="https://dev.to/abeamar/abemon-ms-sql-tool-v100-monitor-and-debug-60m"><img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2mwf43v0fxe7f3z8m67y.jpg" height="270" width=540 /></a> 
+         <a href="https://dev.to/abeamar/abemon-ms-sql-tool-v100-monitor-and-debug-60m"><img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2mwf43v0fxe7f3z8m67y.jpg" height="235" width=540 /></a> 
          <br> <h1>🐔 AbeMon Install options: </h1><br>
          <pre><code>git clone "https://github.com/abeamar/AbeMon.git"</code></pre><br>
-        Choose the installation method that works best for you!<br>
-
+       <br>
+      
+> [!IMPORTANT]
+> Choose the installation method that works best for you!
+> 
 <ol>
   <li>Using the .exe or .msi Installer:<br>https://github.com/abeamar/AbeMon/main/AbeSetup.msi <br>https://github.com/abeamar/AbeMon/main/setup.exe</p></li>
   <li>Manual Installation (Copying the Folder abeSetup)<br>After copying, you can run the application directly from that folder.</li>
 </ol>
               <br>
-              <br>Below are some of the product screens. <br>
+              <br>Below are some of the product screens (older version). <br>
         Demo: App work preview of version v 0.1.6:
         <a href="https://vimeo.com/manage/videos/1124492178" target="_blank">Video link on Vimeo</a>
     </section>
